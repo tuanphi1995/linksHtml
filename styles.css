@@ -1,0 +1,25 @@
+a:link{
+    color: blue ;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited{
+    color: blueviolet;
+
+}
+a:hover{
+    color: bisque;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active{
+    color: yellowgreen;
+    background-color: transparent;
+    text-decoration: none;
+}
+h1{
+    color: blue;
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
